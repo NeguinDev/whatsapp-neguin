@@ -1,0 +1,16 @@
+{
+	"Neguin": {
+		"username": "Neguin",
+		"password": "$2b$10$f8R48fkDnRKjG0sbCiMUUu1iMZXFjDc.A/mLMhkvDL2alM7NHbKiC",
+		"token": "mm3NloL60eWxK4wqbZibnVLFsmdcYGYNJFeVfwUPW8Fsmpdmess4hcjJEYGULcOjieYSc95v98T3yobW6NcQoKct6rG3UcYf5LK6fHeLGufKBV83UoQbtPpqdgpDQNo5uYuMbxR43mGv9yjw",
+		"createdAt": "06/11/2022 05:25:56",
+		"updateAt": "06/11/2022 05:34:26"
+	},
+	"neguin": {
+		"username": "neguin",
+		"password": "$2b$10$duJTa7wTwgbsR0ERCjuaZO7CzsP.Q1/R3MuTIVlOD0GCp95kEWsSC",
+		"token": "OBWqsIACKnHCBfIoxrp79tqS7o3CLTzvliw3dpljDWKk0ihH6uJR0FssDBrRLTe4VEuvyWxSCKFh3HxhOdKkbZ4Dl74jyrmKVC9pD6XrOsTi0g3EW1OQLFfMWrzmCeCXAciSRu0WCY",
+		"createdAt": "07/11/2022 18:52:09",
+		"updateAt": "07/11/2022 18:52:12"
+	}
+}
