@@ -47,10 +47,6 @@
 	width: 71.2%;
 }
 
-.header-main .icon{
-	display: none;
-}
-
 .avatar {
 	width: 40px;
 	height: 40px;
@@ -220,7 +216,6 @@
 @media screen and (max-width: 768px) {
 	.nav {
 		width: 100%;
-		display: none;
 	}
 
 	.header {
@@ -233,6 +228,7 @@
 
 	.main {
 		width: 100%;
+		display: none;
 	}
 
 	.header-main {
