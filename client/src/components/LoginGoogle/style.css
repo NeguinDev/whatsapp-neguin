@@ -1,0 +1,15 @@
+.icon {
+	margin-right: 10px;
+}
+
+.button-google>span {
+	font-size: 1.1rem;
+	font-weight: bolder;
+}
+
+.button-google {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 1.5rem 0;
+}

@@ -8,5 +8,8 @@ export default defineConfig({
 	plugins: [react()],
 	preview: {
 		port
+	},
+	server: {
+		port
 	}
 })

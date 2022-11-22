@@ -10,6 +10,7 @@ body {
 	color: #efef;
 }
 
+button,
 input {
 	background-color: #242424;
 	color: #efef;
@@ -19,17 +20,18 @@ input {
 	margin: 0.5rem;
 }
 
+button:focus,
 input:focus {
 	background-color: #333;
 	outline: #242424 solid 2px;
 }
 
-input[type="submit"] {
+button {
 	padding: 0.8rem 3rem;
 	cursor: pointer;
 }
 
-input[type="submit"]:hover {
+button:hover {
 	background-color: #333;
 }
 
